@@ -6,7 +6,7 @@ Personal Portfolio Web-Site
 
 ## Демонстрация
 
-Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Cyberpunk2077/">клик</a>
+Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Portfolio/">клик</a>
 
 ## Технологии
 
