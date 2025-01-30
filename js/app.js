@@ -462,7 +462,7 @@
         const savedLang = localStorage.getItem("language") || "eng";
         changeLanguage(savedLang);
     }));
-    window["FLS"] = true;
+    window["FLS"] = false;
     menuInit();
     pageNavigation();
     headerScroll();
